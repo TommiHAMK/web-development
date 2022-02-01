@@ -7,8 +7,8 @@
 5. Go to the folder where you zipped the files
 6. Run command: docker-compose up -d
 
-# Some important stuff
-- MySQL root account is: root and password is password
+## Some important stuff
+- MySQL root account is: root, password
 - Create your PHP & HTML files to public_html folder
 - Webroot: localhost:81
 - phpMyAdmin: localhost:82
