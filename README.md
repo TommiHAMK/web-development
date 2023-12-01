@@ -9,6 +9,7 @@
 
 ## Some important stuff
 - MySQL root account is: root, password
+- Database: db
 - Create your PHP & HTML files to public_html folder
 - Webroot: localhost:81
 - phpMyAdmin: localhost:82
