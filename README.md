@@ -13,6 +13,7 @@
 - Create your PHP & HTML files to public_html folder
 - Webroot: localhost:81
 - phpMyAdmin: localhost:82
+- Don't use with WordPress 
 
 ## What's included
 - PHP
