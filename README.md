@@ -8,18 +8,18 @@
 6. Run command: docker-compose up -d
 
 ## Some important stuff
-- MySQL root account is: root, password
-- Database: db
+- MySQL account is root and password is set in .env file (modify it)
 - Create your PHP & HTML files to public_html folder
+- Wordpress is located in wordpress folder (login: wordpress/wp-admin)
+- Username and password for Wordpress will be set during the installation process (open localhost:8080)
 - Webroot: localhost:81
 - phpMyAdmin: localhost:82
-- Don't use with WordPress 
+- Wordpress: localhost:8080
+- If you use MySQL database in your PHP files, the address/host is just db
+
 
 ## What's included
 - PHP
 - MySQL
-- phpMyAdmin (you can connect to local MySQL or external MySQL server)
-
-
-
-Original Docker stuff by Deepak K.C.
+- phpMyAdmin
+- Wordpress
